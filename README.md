@@ -1,11 +1,12 @@
 ## Hi there 👋 I am Aditya Kumar Sahu
-Welcome to my GitHub profile! I'm a learning developer with a diverse skill set in backend and frontend technologies. I enjoy learning new things, building projects, and contributing to open-source communities.
+Hey there! I'm **Aditya Kumar Sahu**, currently exploring **AI/ML** and **Web Development** while working on exciting projects. Always eager to learn new technologies and contribute to the open-source community.
+- 📫 How to reach me: **adityasahu0204@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodedByAd1&label=Profile%20views&color=0e75b6&style=flat" alt="CodedByAd1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodedByAd1" alt="CodedByAd1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aditya._.245?igsh=MXRybmNrMmp0MmEzbA==) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-sahu-329084330/) 
 
 ### 🛠️ Languages & Technologies
 - **Languages**:
@@ -57,9 +58,11 @@ Welcome to my GitHub profile! I'm a learning developer with a diverse skill set 
     
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodedByAd1&show_icons=true&locale=en&layout=compact" alt="CodedByAd1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodedByAd1&show_icons=true&locale=en" alt="CodedByAd1" /></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=CodedByAd1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/> -->
 
 <!--
 **CodedByAd1/CodedByAd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
